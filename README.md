@@ -6,4 +6,4 @@ Files included:
 
 - RSI_Grad_CAM.ipynb - implementation of RSI-Grad-CAM (on Keras over TensorFlow)
 
-- RSI-Grad-CAM-w-autobaseline.ipynb - RSI-Grad-CAM with automatic computation of baseline
+- RSI_Grad_CAM_w_autobaseline.ipynb - RSI-Grad-CAM with automatic computation of baseline
