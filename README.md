@@ -8,6 +8,8 @@ Files included:
 
 - RSI_Grad_CAM_w_autobaseline.ipynb - RSI-Grad-CAM with automatic computation of baseline
 
-- RSI_Grad_CAM_pytorch.ipynb - implementation of RSI-Grad-CAM in PyTorch
+- RSI_Grad_CAM_PyTorch_w_VGG19.ipynb - implementation of RSI-Grad-CAM in PyTorch for use on a VGG19 classifier network
+
+- RSI_Grad_CAM_PyTorch_w_ResNet50.ipynb - implementation of RSI-Grad-CAM in PyTorch for use on a ResNet50 classifier network
 
 - imagenet_classes.txt - list of Imagenet classes
