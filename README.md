@@ -12,4 +12,6 @@ Files included:
 
 - RSI_Grad_CAM_PyTorch_w_ResNet50.ipynb - implementation of RSI-Grad-CAM in PyTorch for use on a ResNet50 classifier network
 
+- RSI_Grad_CAM_w_path_selection_PyTorch_w_ResNet50.ipynb - implementation of RSI-Grad-CAM with integration path selection in PyTorch for use on a ResNet50 classifier network
+
 - imagenet_classes.txt - list of Imagenet classes
