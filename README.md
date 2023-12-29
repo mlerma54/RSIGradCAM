@@ -14,7 +14,7 @@ Files included:
 
 - RSI_Grad_CAM_w_path_selection_PyTorch_w_ResNet50.ipynb - implementation of RSI-Grad-CAM with integration path selection in PyTorch for use on a ResNet50 classifier network. Integration path selection allows e.g. to integrate in the latent space of a VAE rather than using a plain linear interpolation of images from a baseline.
 
-- imagenet_classes.txt - list of Imagenet classes.
+- imagenet_classes.txt - list of ImageNet classes.
 
 Related papers: 
 
