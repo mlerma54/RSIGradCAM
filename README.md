@@ -4,17 +4,17 @@ This is an implementation of a variation of Grad-CAM in which gradients are repl
 
 Files included:
 
-- RSI_Grad_CAM.ipynb - implementation of RSI-Grad-CAM (on Keras over TensorFlow)
+- RSI_Grad_CAM.ipynb - implementation of RSI-Grad-CAM (on Keras over TensorFlow).
 
-- RSI_Grad_CAM_w_autobaseline.ipynb - RSI-Grad-CAM with automatic computation of baseline
+- RSI_Grad_CAM_w_autobaseline.ipynb - RSI-Grad-CAM with automatic computation of baseline.
 
-- RSI_Grad_CAM_PyTorch_w_VGG19.ipynb - implementation of RSI-Grad-CAM in PyTorch for use on a VGG19 classifier network
+- RSI_Grad_CAM_PyTorch_w_VGG19.ipynb - implementation of RSI-Grad-CAM in PyTorch for use on a VGG19 classifier network.
 
-- RSI_Grad_CAM_PyTorch_w_ResNet50.ipynb - implementation of RSI-Grad-CAM in PyTorch for use on a ResNet50 classifier network
+- RSI_Grad_CAM_PyTorch_w_ResNet50.ipynb - implementation of RSI-Grad-CAM in PyTorch for use on a ResNet50 classifier network.
 
 - RSI_Grad_CAM_w_path_selection_PyTorch_w_ResNet50.ipynb - implementation of RSI-Grad-CAM with integration path selection in PyTorch for use on a ResNet50 classifier network. Integration path selection allows e.g. to integrate in the latent space of a VAE rather than using a plain linear interpolation of images from a baseline.
 
-- imagenet_classes.txt - list of Imagenet classes
+- imagenet_classes.txt - list of Imagenet classes.
 
 Related papers: 
 
