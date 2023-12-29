@@ -15,3 +15,10 @@ Files included:
 - RSI_Grad_CAM_w_path_selection_PyTorch_w_ResNet50.ipynb - implementation of RSI-Grad-CAM with integration path selection in PyTorch for use on a ResNet50 classifier network
 
 - imagenet_classes.txt - list of Imagenet classes
+
+Related papers: 
+
+- Mirtha Lucas, Miguel Lerma, Jacob Furst and Daniela Raicu (2022): Visual Explanations from Deep Networks via Riemann-Stieltjes Integrated Gradient-based Localization - https://arxiv.org/abs/2205.10900
+
+- Lucas, M., Lerma, M., Furst, J., Raicu, D. (2022). RSI-Grad-CAM: Visual Explanations from Deep Networks via Riemann-Stieltjes Integrated Gradient-Based Localization. In: Bebis, G., et al. Advances in Visual Computing. ISVC 2022. Lecture Notes in Computer Science, vol 13598. Springer, Cham. https://doi.org/10.1007/978-3-031-20713-6_20 - https://link.springer.com/chapter/10.1007/978-3-031-20713-6_20
+
